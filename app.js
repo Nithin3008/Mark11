@@ -8,7 +8,7 @@ var msg1=document.querySelector("#msg")
 function handler1()
 {
     var sum=0
-    var num1=date_input.value.replaceAll('-','0')
+    var num1=date_input.value.replaceAll('-','')
     console.log(num1)
     for(var i=0;i<=10;i++)
     {
