@@ -1,1 +1,2 @@
-In this project we are going to calculate whether our birthday is lucky or not using our lucky number
+# Is your birthday lucky or not?
+Based on your lucky number and your birthday we are going to calculate whether your birthday is lucky or not
